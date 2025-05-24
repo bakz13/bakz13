@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋 I'am Bakary Diarra
 
-<!--
-**bakz13/bakz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A multidisciplinary and polyglot software engineer with a primary focus on helping companies develop technology solutions for their business.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Fluent in These languages
+- English
+- French
+- Arabic (Egyptian Dialect)
+- Bambara (Bamanankan)
+#### Here are few key points I can help you with
+- APIs Implementation and Integration
+- Website & Web Application Development
+- Cross-Platform Mobile & Desktop Application Development
+- Third-party Integration (APIs, Webhooks...)
+- Microservices and Containerized Applications Developement
+- Some occasional Consulting
